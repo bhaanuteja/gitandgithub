@@ -1,4 +1,4 @@
 # gitandgithub
 Second repository
 <br>
-Author - Bhaanu Teja 
+Author - Bhaanu (first) Teja 
